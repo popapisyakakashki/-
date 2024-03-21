@@ -1,0 +1,212 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_8 {
+  width: 754px;
+  height: 533px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_10 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v1_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1263px;
+  left: 179px;
+  overflow: hidden;
+}
+.v3_2 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v3_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 917px;
+  left: 1636px;
+  overflow: hidden;
+}
+.v3_4 {
+  width: 569px;
+  color: rgba(88,250,143,1);
+  position: absolute;
+  top: 9px;
+  left: 105px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_6 {
+  width: 94px;
+  height: 94px;
+  background: url("../images/v3_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 439px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_7 {
+  width: 329px;
+  color: rgba(255,230,6,1);
+  position: absolute;
+  top: 473px;
+  left: 94px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_8 {
+  width: 94px;
+  height: 94px;
+  background: url("../images/v3_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 351px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_9 {
+  width: 293px;
+  color: rgba(249,255,0,1);
+  position: absolute;
+  top: 380px;
+  left: 91px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_12 {
+  width: 230px;
+  height: 208px;
+  background: url("../images/v3_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 128px;
+  left: 423px;
+  overflow: hidden;
+}
+.v3_13 {
+  width: 184px;
+  height: 261px;
+  background: url("../images/v3_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  left: 510px;
+  overflow: hidden;
+}
+.v3_14 {
+  width: 330px;
+  height: 254px;
+  background: url("../images/v3_14.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 162px;
+  left: 442px;
+  overflow: hidden;
+}
+.v3_16 {
+  width: 831px;
+  height: 103px;
+  background: url("../images/v3_16.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 342px;
+  left: 237px;
+  overflow: hidden;
+}
+.v3_17 {
+  width: 510px;
+  height: 103px;
+  background: url("../images/v3_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 365px;
+  left: 297px;
+  overflow: hidden;
+}
+.v3_18 {
+  width: 502px;
+  height: 92px;
+  background: url("../images/v3_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 399px;
+  left: 442px;
+  overflow: hidden;
+}
+.v3_10 {
+  width: 255px;
+  height: 325px;
+  background: url("../images/v3_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 190px;
+  left: 536px;
+  border-top-left-radius: 127px;
+  border-top-right-radius: 127px;
+  border-bottom-left-radius: 127px;
+  border-bottom-right-radius: 127px;
+  overflow: hidden;
+}
+.v3_19 {
+  width: 144px;
+  height: 140px;
+  background: url("../images/v3_19.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 231px;
+  left: 352px;
+  overflow: hidden;
+}
